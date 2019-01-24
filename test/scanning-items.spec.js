@@ -8,7 +8,7 @@ describe("scanning items", () => {
 
     it("gives a total cost of 50 when something is scanned", () => {
         // Even with this first spec we have to consider a design that honours the domain ideas of "total",
-        // "cost", "scanning". The idea of "giving" steers our desing towards the "tell, don't ask" principle.
+        // "cost", and "scanning". The idea of "giving" steers our design towards the "tell, don't ask" principle.
     });
 
     it("total cost should be 50 when something is scanned", () => {
